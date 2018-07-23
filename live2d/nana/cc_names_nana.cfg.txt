@@ -1,0 +1,2 @@
+﻿set_friendly_name nana 'Live2D nana'
+set_avatar_skin_description nana default txt_descLive2dAvatar1
